@@ -1,4 +1,4 @@
-# 🧾 Sales-Performance-Analytics
+# 🧾 Sales Performance Analytics
 
 Track, visualize, and improve weekly sales performance across insurance branches with interactive dashboards and deep data insights.
 
